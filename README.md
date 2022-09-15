@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+|[摸鱼人日历](https://github.com/GOD2333/dailyloaf)|[@GOD2333](https://github.com/GOD2333)|摸鱼人日历公众号图片|
 |[网络天才](https://github.com/HMScygnet/akinator)|[@HMScygnet](https://github.com/HMScygnet)|网络天才小游戏，可以猜出你心里想的人物|
 |[魔改版的pcrjjc2](https://github.com/Syne-lucky/pcrjjc2)|[@Syne-lucky](https://github.com/Syne-lucky)|可绑多uid、可私聊/群聊通知、多线程、自动过验证码。|
 | [pcr攻略](https://github.com/SonderXiaoming/auto_strategy) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动更新的pcr攻略插件 |
